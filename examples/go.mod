@@ -13,4 +13,3 @@ require (
 	golang.org/x/sys v0.0.0-20201014080544-cc95f250f6bc // indirect
 )
 
-replace github.com/charmbracelet/bubbletea => ../
